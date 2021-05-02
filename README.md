@@ -1,16 +1,16 @@
 # DRF_Recipe_Project:
-Creating an advanced REST API with Python (Django REST Framework) to implement Recipe API project
+Creating an advanced **REST API** with **Python** (Django REST Framework) to implement Recipe API project
 
-# Reference: 
-https://www.udemy.com/course/django-python-advanced/
+## Reference: 
+[Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
 
-# Purposes:
+## Purposes:
 1) User authentication (custom user model)
 2) Creating objects (mysql db)
 3) Filtering and sorting objects
 4) Uploading and viewing images
 
-# Requirements:
+## Requirements:
 1) python 3.9
 2) django 3.1.7
 3) djangorestframework 3.12.2
